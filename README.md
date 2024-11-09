@@ -1,1 +1,1 @@
-# Nextion-configuration.git
+# nextion-projects
